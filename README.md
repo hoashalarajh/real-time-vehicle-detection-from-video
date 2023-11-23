@@ -1,5 +1,5 @@
 # real-time-vehicle-detection-from-video
-Click the below link to view the Demonstration:
+Click the link to view the Demonstration:
 https://drive.google.com/file/d/115u_E0t5lkIRW9R7FUeNGPIl61jwQ_bO/view?usp=sharing
 
 This MATLAB code processes a video ("RoadTraffic.mp4") in two main sections.
